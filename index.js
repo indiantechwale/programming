@@ -6,6 +6,7 @@ console.log("b=>",b)
 let temp =a; //4
     a=b; //5 
     b=temp;//4
+
 console.log("a=>",a)
 console.log("b=>",b)
 
